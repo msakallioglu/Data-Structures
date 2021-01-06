@@ -4,5 +4,5 @@
 
 :bomb: Data structures course final project
 
-<img src="Final_Project_Data_Structures_gif.gif" alt="gif" title="gif" width="500"/>
+<img src="Final_Project_Data_Structures_gif.gif" alt="gif" title="gif" width="700"/>
 
